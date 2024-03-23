@@ -3,11 +3,11 @@
 ## About me...
 - 📚 Programming student & focusing on improving every day.
 
-- 🔭 I’m currently studying at [Etec Sapopemba.](https://www.vestibulinhoetec.com.br/unidades-cursos/escola.asp?c=172)
+- 🔭 I’m currently studying at [PROPROFISSÃO.](https://www.proa.org.br)
 
 - ▶️ To know more about me [LinkedIn.](https://www.linkedin.com/in/fellype-oliveira-920699230/)
 
-- 💬 Ask me about **JavaScript, HTML, CSS.**
+- 💬 Ask me about **JavaScript, HTML, CSS, C#, SQL.**
 
 - 👨‍💻 More at [1fellype.](https://github.com/1fellype)
 
